@@ -15,3 +15,5 @@ master (write)    : localhost:54320
 replica_1 (read)  : localhost:54321
 replica_2 (read)  : localhost:54322
 ```
+
+![ScreenShoot](sc.png)
