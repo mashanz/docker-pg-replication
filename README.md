@@ -17,3 +17,5 @@ replica_2 (read)  : localhost:54322
 ```
 
 ![ScreenShoot](sc.png)
+
+Modified from https://github.com/2hamed/docker-pg-replication
